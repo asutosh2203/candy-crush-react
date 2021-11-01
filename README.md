@@ -4,8 +4,10 @@ This project is a basic version of the game Candy Crush written using ReactJS. Y
 
 ## How to Run
 
-Clone the repository into into device,`cd` into the root directory and run `npm i`.
+Clone the repository into into device and `cd` into the root directory.
 
-After that run `npm start` to start the server on your local machine.
+Then run `npm i` to install all the required dependencies.
 
-Go to https://localhost:3000 on your browser to view the project. 
+After that run `npm start` to start the development server on your local machine.
+
+Go to http://localhost:3000 on your browser to view the project. 
